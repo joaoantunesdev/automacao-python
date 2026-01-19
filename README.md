@@ -1,0 +1,1 @@
+Aula com o João Lira da Hashtag, automação para cadastro de produtos usando logica de programaçao + atividade do dia a dia. Visando otimizar o tempo de cadastro de produtos com algumas especificações, trazendo o conceito de agilidade em processos operacionais e simples. 
